@@ -6,24 +6,24 @@ const {themes} = require('prism-react-renderer');
 /** @type {import('@docusaurus/types').Config} */
 const config = {
   // TODO: MENTEE - Update your name here
-  title: 'Prakash Aryan',
+  title: 'Sivangi Bipin',
   // TODO: MENTEE - Update your tagline/slogan here
   tagline: 'Advancing Women in Computing, One Line of Code at a Time',
   // TODO: MENTEE - Update favicon path or add your own image
-  favicon: 'img/github-profile.png',
+  favicon: 'img/git-hub-pfp.png',
   trailingSlash: true,
 
   // Set the production url of your site here
   // TODO: MENTEE - Update with your GitHub username
-  url: 'https://prakash-aryan.github.io',
+  url: 'https://essenbee227.github.io',
   // TODO: MENTEE - Update with your repository name
-  baseUrl: '/ACMW-Jump-Project/',
+  baseUrl: '/ACMW-Jump-Project-forked-/',
 
   // GitHub pages deployment config
   // TODO: MENTEE - Update with your GitHub username
-  organizationName: 'prakash-aryan',
+  organizationName: 'essenbee227',
   // TODO: MENTEE - Update with your repository name
-  projectName: 'ACMW-Jump-Project',
+  projectName: 'ACMW-Jump-Project-forked-',
 
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
@@ -46,13 +46,13 @@ const config = {
           routeBasePath: 'docs',
           // TODO: MENTEE - Update with your GitHub username and repository name
           editUrl:
-            'https://github.com/prakash-aryan/ACMW-Jump-Project/tree/main/',
+            'https://github.com/essenbee227/ACMW-Jump-Project-forked-/tree/main/',
         },
         blog: {
           showReadingTime: true,
           // TODO: MENTEE - Update with your GitHub username and repository name
           editUrl:
-            'https://github.com/prakash-aryan/ACMW-Jump-Project/tree/main/',
+            'https://github.com/essenbee227/ACMW-Jump-Project-forked-/tree/main/',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -68,12 +68,12 @@ const config = {
       image: 'img/acmw-social-card.jpg',
       navbar: {
         // TODO: MENTEE - Update with your name in the navbar
-        title: 'Prakash Aryan',
+        title: 'Sivangi Bipin',
         logo: {
           // TODO: MENTEE - Update alt text with your name
-          alt: 'Prakash Aryan',
+          alt: 'Sivangi Bipin',
           // TODO: MENTEE - Update with your profile picture
-          src: '/img/github-profile.png',
+          src: '/img/git-hub-pfp.png',
         },
         items: [
           {
@@ -83,7 +83,7 @@ const config = {
           },
           {
             // TODO: MENTEE - Update with your GitHub profile URL
-            href: 'https://github.com/prakash-aryan',
+            href: 'https://github.com/essenbee227',
             label: 'GitHub',
             position: 'right',
           },
@@ -92,7 +92,7 @@ const config = {
       footer: {
         style: 'dark',
         // TODO: MENTEE - Update with your own copyright message
-        copyright: `© ${new Date().getFullYear()} Prakash Aryan. Built with Docusaurus.`,
+        copyright: `© ${new Date().getFullYear()} Sivangi. Built with Docusaurus.`,
         links: [
           {
             title: 'Documentation',
@@ -116,19 +116,15 @@ const config = {
             items: [
               {
                 // TODO: MENTEE - Update with your GitHub profile URL
-                href: 'https://github.com/prakash-aryan',
+                href: 'https://github.com/essenbee227',
                 label: 'GitHub',
               },
               {
                 // TODO: MENTEE - Update with your LinkedIn profile URL (or remove if not applicable)
-                href: 'https://www.linkedin.com/in/prakash-aryan/',
+                href: 'https://www.linkedin.com/in/sivangi-bipin-317010321/',
                 label: 'LinkedIn',
               },
-              {
-                // TODO: MENTEE - Update with your personal website (or remove if not applicable)
-                href: 'https://prakasharyan.com',
-                label: 'Website',
-              },
+              
             ],
           },
         ],
