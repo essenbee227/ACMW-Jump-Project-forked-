@@ -17,7 +17,7 @@ const sidebars = {
   tutorialSidebar: [
     // Root level pages
     'intro',                  // Main landing page for docs
-    'profile',                // Your profile page
+                    // Your profile page
     
     // Documentation section
     // TODO: MENTEE - Expand this section with your technical documentation

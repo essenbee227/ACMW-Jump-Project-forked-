@@ -6,8 +6,8 @@ title: Mentor Profile
 
 <div style={{ display: 'flex', flexDirection: 'row', flexWrap: 'wrap', alignItems: 'flex-start', gap: '2rem', marginBottom: '2rem' }}>
   <div style={{ flex: '1', minWidth: '300px' }}>
-    <h1 style={{ marginBottom: '0.5rem', fontSize: '2.5rem' }}>Sivangi Bipin</h1>
-    <h2 style={{ marginTop: '0', marginBottom: '1.5rem', fontSize: '1.8rem', fontWeight: 'normal', color: '#444' }}>Computer Science Freshman</h2>
+    <h1 style={{ marginBottom: '0.5rem', fontSize: '2.5rem', color: '#007BFF' }}>Sivangi Bipin</h1>
+    <h2 style={{ marginTop: '0', marginBottom: '1.5rem', fontSize: '1.8rem', fontWeight: 'normal', color: '#0056b3' }}>Computer Science Freshman</h2>
 
 ## About Me
 
@@ -24,14 +24,18 @@ I’m a Computer Science student at Birla Institute of Technology and Science, D
   </div>
 </div>
 
-## Professional Experience
 
-### Robotics Internship
-**Unique World Robotics, Dubai, UAE** | *Aug 2023*
+ ## Professional Experience
+ 
+<div style={{ display: 'flex', flexDirection: 'row', flexWrap: 'wrap', alignItems: 'flex-start', gap: '2rem', marginBottom: '2rem' }}>
 
-- Designed and programmed LEGO Mindstorms robots to solve real-world problems, enhancing hands-on experience in robotics and automation.
-- Developed a Rubik's Cube Solving, Colour Detecting and Self-balancing Robot.
-- Tutored children on AUTOCAD.
+ ### Robotics Internship
+ **Unique World Robotics, Dubai, UAE** | *Aug 2023*
+
+ - Designed and programmed LEGO Mindstorms robots to solve real-world problems, enhancing hands-on experience in robotics and automation.
+ - Developed a Rubik's Cube Solving, Colour Detecting and Self-balancing Robot.
+ - Tutored children on AUTOCAD.
+</div>
 
 <div style={{ flex: '1', minWidth: '300px', display: 'flex', justifyContent: 'center' }}>
 <iframe
