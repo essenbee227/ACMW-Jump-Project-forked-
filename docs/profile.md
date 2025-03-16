@@ -59,13 +59,3 @@ I’m a Computer Science student at Birla Institute of Technology and Science, D
 - **GitHub**: [@essenbee227](https://github.com/essenbee227)
 - **LinkedIn**: [Sivangi Bipin](https://www.linkedin.com/in/sivangi-bipin-317010321/)
 
-## ACMW-Jump Mentorship Project
-
-I am currently working with a team for the ACMW-Jump program, where we are working on a security and monitoring project. Our team consists of four talented individuals, each focusing on different aspects of the project:
-
-1. **Security & Database Engineering**
-2. **Data Infrastructure Engineering**
-3. **Machine Learning Engineering**
-4. **LLM Engineering**
-
-Follow our progress through the documentation section!
