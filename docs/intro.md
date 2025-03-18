@@ -15,7 +15,18 @@ This documentation site is part of the ACM-W Junior Mentorship Program (JuMP), a
 ## My Role
 
 <!-- TODO: MENTEE - Describe your role in the project and your responsibilities -->
-As a mentor in the ACMW-Jump program, I'm responsible for guiding my team through security and monitoring challenges, helping them develop technical skills, and supporting their professional growth.
+Data Infrastructure Engineer 
+
+Focus: Building the monitoring system and data pipelines.
+Responsibilities:
+Set up the ELK Stack (Elasticsearch, Logstash, Kibana) for real-time monitoring.
+Create data pipelines for processing security logs.
+Design dashboards for real-time attack monitoring.
+Examples:
+Handle 1000+ events/second in real-time log processing.
+Create live dashboards for monitoring attacks.
+Tech Stack: Elasticsearch, Logstash, Kibana, APIs.
+Why it's great: A step-by-step guide will be provided for ELK setup and configuration.
 
 ## Project Timeline
 

@@ -1,11 +1,11 @@
 :root {
-  --ifm-color-primary: #b31b67; /* ACMW pink/maroon color */
-  --ifm-color-primary-dark: #a11960;
-  --ifm-color-primary-darker: #98185a;
-  --ifm-color-primary-darkest: #7d144a;
-  --ifm-color-primary-light: #c41d6e;
-  --ifm-color-primary-lighter: #cd1e73;
-  --ifm-color-primary-lightest: #e52283;
+  --ifm-color-primary: #3944bc; /* ACMW pink/maroon color */
+  --ifm-color-primary-dark: #1f456e;
+  --ifm-color-primary-darker: #016064;
+  --ifm-color-primary-darkest: #022d36;
+  --ifm-color-primary-light: #48aaad;
+  --ifm-color-primary-lighter: #52b2bf;
+  --ifm-color-primary-lightest: #63c5da;
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
   --ifm-font-family-base: 'Segoe UI', -apple-system, BlinkMacSystemFont, 'Roboto', sans-serif;
