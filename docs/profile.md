@@ -6,8 +6,8 @@ title: Mentor Profile
 
 <div style={{ display: 'flex', flexDirection: 'row', flexWrap: 'wrap', alignItems: 'flex-start', gap: '2rem', marginBottom: '2rem' }}>
   <div style={{ flex: '1', minWidth: '300px' }}>
-    <h1 style={{ marginBottom: '0.5rem', fontSize: '2.5rem', color: '#007BFF' }}>Sivangi Bipin</h1>
-    <h2 style={{ marginTop: '0', marginBottom: '1.5rem', fontSize: '1.8rem', fontWeight: 'normal', color: '#0056b3' }}>Computer Science Freshman</h2>
+    <h1 style={{ marginBottom: '0.5rem', fontSize: '2.5rem', color: '#022d36' }}>Sivangi Bipin</h1>
+    <h2 style={{ marginTop: '0', marginBottom: '1.5rem', fontSize: '1.8rem', fontWeight: 'normal', color: '#016064' }}>Computer Science Freshman</h2>
 
 ## About Me
 

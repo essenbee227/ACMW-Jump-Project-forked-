@@ -65,6 +65,10 @@ Check out these examples to see how to structure and format your blog posts:
 
 <!-- TODO: MENTEE - Add links to your blog posts here -->
 - [Git Branching Strategies](./git-branching) - Understanding different Git branching models for effective collaboration
+- [Git](./git) - A brief introduction to Git
+- [Comparison of different python web frameworks vs. FastAPI](./python_web_frameworks_vs_FastAPI)
+- [Using source control tool in vscode](./Sourcecontrol)
+- [Python Object-Oriented Programming](./pythonOOP)
 
 ## Learning Updates
 

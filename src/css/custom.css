@@ -1,5 +1,5 @@
 :root {
-  --ifm-color-primary: #3944bc; /* ACMW pink/maroon color */
+  --ifm-color-primary: #1f456e; /* ACMW pink/maroon color */
   --ifm-color-primary-dark: #1f456e;
   --ifm-color-primary-darker: #016064;
   --ifm-color-primary-darkest: #022d36;
@@ -13,9 +13,9 @@
   --ifm-font-weight-semibold: 600;
   --custom-border-radius: 8px;
   --custom-box-shadow: 0 4px 8px rgba(0, 0, 0, 0.08);
-  --text-color: #333;
-  --card-background: white;
-  --feature-background: #fdf2f7; /* Light pink background */
+  --text-color: #016064;
+  --card-background: #63c5da;
+  --feature-background: #63c5da; /* Light pink background */
 }
 
 [data-theme='dark'] {
@@ -69,13 +69,13 @@ h3 {
 
 /* Hero section with gradient background */
 .hero--primary {
-  background: linear-gradient(135deg, #851649 0%, #b31b67 100%);
-  color: white;
+  background: linear-gradient(135deg, #016064 0%, #1f456e 100%);
+  color: #52b2bf;
   padding: 4rem 0;
 }
 
 [data-theme='dark'] .hero--primary {
-  background: linear-gradient(135deg, #5c102f 0%, #9a1659 100%);
+  background: linear-gradient(135deg, #022d36 0%, #016064 100%);
 }
 
 .hero__title {
@@ -83,14 +83,14 @@ h3 {
   font-weight: 700;
   letter-spacing: -0.03em;
   margin-bottom: 1rem;
-  color: white;
+  color: #48aaad;
 }
 
 .hero__subtitle {
   font-size: 1.5rem;
   opacity: 0.9;
   margin-bottom: 2rem;
-  color: white;
+  color: #48aaad;
 }
 
 /* Button styling */
@@ -110,7 +110,7 @@ h3 {
 .button--primary {
   background-color: var(--ifm-color-primary);
   border: 2px solid var(--ifm-color-primary);
-  color: white;
+  color: #63c5da;
 }
 
 .button--primary:hover {
@@ -134,10 +134,10 @@ h3 {
 
 /* Footer */
 .footer--dark {
-  --ifm-footer-background-color: #59102e;
-  --ifm-footer-color: #ffffff;
-  --ifm-footer-link-color: #ffd1e6;
-  --ifm-footer-title-color: #ffffff;
+  --ifm-footer-background-color: #022d36;
+  --ifm-footer-color: #48aaad;
+  --ifm-footer-link-color: #48aaad;
+  --ifm-footer-title-color: #48aaad;
   padding: 3rem 0;
 }
 
@@ -156,7 +156,7 @@ h3 {
 
 /* Code blocks */
 code {
-  background-color: #fef1f7;
+  background-color: #63c5da;
   border-radius: 4px;
   color: var(--ifm-color-primary-darker);
   padding: 0.2rem 0.4rem;
@@ -175,14 +175,14 @@ code {
 }
 
 .markdown > h2 {
-  border-bottom: 1px solid #f8d7e5;
+  border-bottom: 1px solid #52b2bf;
   padding-bottom: 0.3rem;
   margin-top: 2rem;
   margin-bottom: 1rem;
 }
 
 [data-theme='dark'] .markdown > h2 {
-  border-bottom-color: #59102e;
+  border-bottom-color: #022d36;
 }
 
 /* Profile page styling */
@@ -211,7 +211,7 @@ code {
   align-items: center;
   padding: 0.5rem 1rem;
   background-color: var(--ifm-color-primary);
-  color: white;
+  color: #63c5da;
   border-radius: var(--custom-border-radius);
   text-decoration: none;
   transition: all 0.2s ease;
