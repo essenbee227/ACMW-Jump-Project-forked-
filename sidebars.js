@@ -40,21 +40,26 @@ const sidebars = {
     // Blog posts section
     // TODO: MENTEE - Add your blog posts here as they're created
     'blog-posts/index',     
-    'blog-posts/git',
-    'blog-posts/python_web_frameworks_vs_FastAPI',
-    'blog-posts/pythonOOP',
-    'blog-posts/Sourcecontrol',  // Blog posts landing page
+    
+    // Blog posts landing page
     
     // Example of how to add a specific blog post
     // 'blog-posts/git-branching',
     
     // TODO: MENTEE - Add more categories or documents as needed
     // For example:
-    // {
-    //   type: 'category',
-    //   label: 'Tutorials',
-    //   items: ['tutorials/getting-started', 'tutorials/advanced'],
-    // },
+     {
+      type: 'category',
+      label: 'Blog Posts',
+      link: {
+        type: 'doc',
+        id: 'blog-posts/index',
+      },
+      items: ['blog-posts/git',
+    'blog-posts/python_web_frameworks_vs_FastAPI',
+    'blog-posts/pythonOOP',
+    'blog-posts/Sourcecontrol',  ],
+    },
   ],
   
   // TODO: MENTEE - You can create additional sidebars for different sections
