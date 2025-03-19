@@ -1,6 +1,6 @@
 ---
 title: Comparison of different python web frameworks vs. FastAPI
-sidebar_label: python web frameworks vs. FastAPI
+sidebar_label: Python web frameworks vs. FastAPI
 description: A breif comparison between FastAPI, Django, and Flask.
 ---
 

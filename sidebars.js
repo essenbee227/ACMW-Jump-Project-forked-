@@ -41,7 +41,7 @@ const sidebars = {
     // TODO: MENTEE - Add your blog posts here as they're created
     'blog-posts/index',     
     'blog-posts/git',
-    'blog-posts/python_web_framworks_vs_FastAPI',
+    'blog-posts/python_web_frameworks_vs_FastAPI',
     'blog-posts/pythonOOP',
     'blog-posts/Sourcecontrol',  // Blog posts landing page
     
