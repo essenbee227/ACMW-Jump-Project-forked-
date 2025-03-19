@@ -6,6 +6,8 @@ description: A discussion on Pythons Object Oriented Programming and the Key con
 
 # Python Object-Oriented Programming (OOP)
 
+![OOP](/img/images.png)
+
 Object-Oriented Programming (OOP) is a programming paradigm that organizes code into reusable structures called objects. Python, being an object-oriented language, allows developers to write modular and scalable code using OOP principles.
 
  By understanding the core OOP principles (classes, objects, inheritance, encapsulation, polymorphism, and abstraction), programmers can use the full potential of Python OOP capabilities to design elegant and efficient solutions to complex problems.
