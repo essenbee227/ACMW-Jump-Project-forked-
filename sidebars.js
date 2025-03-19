@@ -39,7 +39,7 @@ const sidebars = {
     
     // Blog posts section
     // TODO: MENTEE - Add your blog posts here as they're created
-    'blog-posts/index',     
+      
     
     // Blog posts landing page
     
